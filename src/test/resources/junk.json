@@ -1,0 +1,25 @@
+{
+  "title": "DocStore only beans",
+  "author": {
+    "id": "b54e2bdc-e5c9-462e-b1bc-3e19bd51920b",
+    "name": "rob"
+  },
+  "subject": "Hello world",
+  "content": {
+    "name": "roberto",
+    "age": 46,
+    "address": {
+      "street": "80 banana",
+      "city": "auckland"
+    }
+  },
+  "whenCreated": 1480067818819,
+  "whenModified": 1480067818819,
+  "alpha": "aa",
+  "zumo": true,
+  "host": {
+    "ip": "1234",
+    "core": "JDFS",
+    "active": true
+  }
+}
