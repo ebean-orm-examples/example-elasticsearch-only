@@ -19,13 +19,13 @@
         <dependency>
             <groupId>org.avaje.ebean</groupId>
             <artifactId>ebean</artifactId>
-            <version>9.3.1-SNAPSHOT</version>
+            <version>9.3.1</version>
         </dependency>
 
         <dependency>
             <groupId>org.avaje.ebean</groupId>
             <artifactId>ebean-elastic</artifactId>
-            <version>1.5.1-SNAPSHOT</version>
+            <version>1.5.1</version>
         </dependency>
 
         <dependency>
